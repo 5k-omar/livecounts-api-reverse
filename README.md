@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=livecounts.io%20Reverse&fontSize=60&fontAlignY=58&animation=fadeIn&fontColor=ffffff"/>
+
+# 🚀 livecounts.io API
+
+[![GitHub Stars](https://img.shields.io/github/stars/5k-omar/livecounts-api-reverse?style=for-the-badge&logo=github&color=FFD700)](https://github.com/5k-omar/Zefoy-Bot/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/5k-omar/livecounts-api-reverse?style=for-the-badge&logo=github&color=28a745)](https://github.com/5k-omar/Zefoy-Bot/network/members)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+**100% working as of (22/1/2026)**
+
+[Star this repo](https://github.com/5k-omar/livecounts-api-reverse) • [Join Discord](https://discord.gg/tcnksFMCR9)
+
+</div>
+
+---
+
 # livecounts.io API
 
 unofficial python wrapper for livecounts.io stats api
